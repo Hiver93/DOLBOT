@@ -5,9 +5,9 @@
 
 </aside>
 
-![Untitled](%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9%20f0e47c2a1c794ad4a3d2c3606d40b47a/Untitled.png)
+![Untitled](images/Untitled.png)
 
-![Untitled](%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9%20f0e47c2a1c794ad4a3d2c3606d40b47a/Untitled%201.png)
+![Untitled](images/Untitled%201.png)
 
 ## 돌봇
 
@@ -59,13 +59,13 @@
 
 ❓집에 어르신이 잘 계신지 직접 눈으로 확인 할 수 있을까요?
 
-![Untitled](%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9%20f0e47c2a1c794ad4a3d2c3606d40b47a/Untitled%202.png)
+![Untitled](images/Untitled%202.png)
 
 이 모든 기능을 가진 스마트홈 로봇 서비스 프로젝트
 
 ## 아키텍처(기술스택)
 
-![아키텍처.png](%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9%20f0e47c2a1c794ad4a3d2c3606d40b47a/%25EC%2595%2584%25ED%2582%25A4%25ED%2585%258D%25EC%25B2%2598.png)
+![아키텍처.png](images/%25EC%2595%2584%25ED%2582%25A4%25ED%2585%258D%25EC%25B2%2598.png)
 
 ## 서비스 특장점
 
@@ -83,91 +83,91 @@
 - 3자 통신
     - 프론트엔드 - 백엔드 - 로봇 3자간 통신
 
-![Untitled](%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9%20f0e47c2a1c794ad4a3d2c3606d40b47a/Untitled%203.png)
+![Untitled](images/Untitled%203.png)
 
 ## 기능 명세서
 
-![Untitled](%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9%20f0e47c2a1c794ad4a3d2c3606d40b47a/Untitled%204.png)
+![Untitled](images/Untitled%204.png)
 
-![Untitled](%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9%20f0e47c2a1c794ad4a3d2c3606d40b47a/Untitled%205.png)
+![Untitled](images/Untitled%205.png)
 
 ## ERD
 
-![돌봇 (3).png](%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9%20f0e47c2a1c794ad4a3d2c3606d40b47a/%25EB%258F%258C%25EB%25B4%2587_(3).png)
+![돌봇 (3).png](images/%25EB%258F%258C%25EB%25B4%2587_(3).png)
 
 ## API 설계서
 
 ### REST API 명세서
 
-![Untitled](%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9%20f0e47c2a1c794ad4a3d2c3606d40b47a/Untitled%206.png)
+![Untitled](images/Untitled%206.png)
 
 ### SOCKET TOPIC
 
-![Untitled](%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9%20f0e47c2a1c794ad4a3d2c3606d40b47a/Untitled%207.png)
+![Untitled](images/Untitled%207.png)
 
 ## 서비스 목업
 
-![Untitled](%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9%20f0e47c2a1c794ad4a3d2c3606d40b47a/Untitled.jpeg)
+![Untitled](images/Untitled.jpeg)
 
 ## 페이지 나열
 
 - 로그인
 
-![login.png](%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9%20f0e47c2a1c794ad4a3d2c3606d40b47a/login.png)
+![login.png](images/login.png)
 
 - 메인페이지
 
-![main.png](%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9%20f0e47c2a1c794ad4a3d2c3606d40b47a/main.png)
+![main.png](images/main.png)
 
 - 방별 가전 목록 및 상태
 
-![main2.png](%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9%20f0e47c2a1c794ad4a3d2c3606d40b47a/main2.png)
+![main2.png](images/main2.png)
 
 - 에어컨 상세 작동 설정
 
-![aircon.png](%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9%20f0e47c2a1c794ad4a3d2c3606d40b47a/aircon.png)
+![aircon.png](images/aircon.png)
 
 - CCTV(수동모드)
 
-![cctv1.png](%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9%20f0e47c2a1c794ad4a3d2c3606d40b47a/cctv1.png)
+![cctv1.png](images/cctv1.png)
 
 - CCTV(수동모드)
 
-![cctv2.png](%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9%20f0e47c2a1c794ad4a3d2c3606d40b47a/cctv2.png)
+![cctv2.png](images/cctv2.png)
 
 - CCTV(수동모드)
 
-![cctv3.png](%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9%20f0e47c2a1c794ad4a3d2c3606d40b47a/cctv3.png)
+![cctv3.png](images/cctv3.png)
 
 - 일정 리스트
 
-![schedule3.png](%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9%20f0e47c2a1c794ad4a3d2c3606d40b47a/schedule3.png)
+![schedule3.png](images/schedule3.png)
 
 - 스케줄러
 
-![schedule1.png](%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9%20f0e47c2a1c794ad4a3d2c3606d40b47a/schedule1.png)
+![schedule1.png](images/schedule1.png)
 
 - 일정 추가 및 수정
 
-![schedule2.png](%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9%20f0e47c2a1c794ad4a3d2c3606d40b47a/schedule2.png)
+![schedule2.png](images/schedule2.png)
 
 - 일정 알림 시간 설정
 
-![schedule4.png](%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9%20f0e47c2a1c794ad4a3d2c3606d40b47a/schedule4.png)
+![schedule4.png](images/schedule4.png)
 
 - 긴급 알림
 
-![emergency.png](%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9%20f0e47c2a1c794ad4a3d2c3606d40b47a/emergency.png)
+![emergency.png](images/emergency.png)
 
 - 일 단위 로봇 작동 로그
     
-    ![log.png](%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9%20f0e47c2a1c794ad4a3d2c3606d40b47a/log.png)
+    ![log.png](images/log.png)
     
 
 ## 프로젝트 일정 관리
 
-![Untitled](%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9%20f0e47c2a1c794ad4a3d2c3606d40b47a/Untitled%208.png)
+![Untitled](images/Untitled%208.png)
 
-![간트차트_백엔드.png](%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9%20f0e47c2a1c794ad4a3d2c3606d40b47a/%25EA%25B0%2584%25ED%258A%25B8%25EC%25B0%25A8%25ED%258A%25B8_%25EB%25B0%25B1%25EC%2597%2594%25EB%2593%259C.png)
+![간트차트_백엔드.png](images/%25EA%25B0%2584%25ED%258A%25B8%25EC%25B0%25A8%25ED%258A%25B8_%25EB%25B0%25B1%25EC%2597%2594%25EB%2593%259C.png)
 
-![간트차트_임베디드 (2).png](%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9%20f0e47c2a1c794ad4a3d2c3606d40b47a/%25EA%25B0%2584%25ED%258A%25B8%25EC%25B0%25A8%25ED%258A%25B8_%25EC%259E%2584%25EB%25B2%25A0%25EB%2594%2594%25EB%2593%259C_(2).png)
+![간트차트_임베디드 (2).png](images/%25EA%25B0%2584%25ED%258A%25B8%25EC%25B0%25A8%25ED%258A%25B8_%25EC%259E%2584%25EB%25B2%25A0%25EB%2594%2594%25EB%2593%259C_(2).png)
